@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+h1{
+	
+color:#996666;
+font-size:0.844em;
+margin-top:2%;
+}
+
+
+#inicio{
+margin:0 auto;
+background-color:#FFFFCC;
+padding:1%;
+}
+
+#campo1{
+	
+max-width:28%;	
+}
+
+#campo2{
+	
+max-width:28%;	
+}
+
+#texto1{
+	
+background-color:#A1574B;
+color:#FFFFFF;
+text-decoration:none;
+
+}
+
+#texto2{
+	
+background-color:#A1574B;
+color:#FFFFFF;
+text-decoration:none;
+
+}
+
+#footer{
+margin-top:5%;
+border-top:solid thin #8F4234;
+max-width:28%;
+color:#8F4234;
+padding-top:1%;
+font-size:0.625em;
+	
+}
