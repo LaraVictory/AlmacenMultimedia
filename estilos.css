@@ -1,5 +1,5 @@
 @charset "utf-8";
-/* CSS Document */
+/* CSS Document LV */
 
 
 #inicio{
@@ -57,7 +57,7 @@ color:#8F4234;
 padding-top:1%;
 font-size:0.625em;
 width:100%;
-margin-top:50%;
+margin-top:35%;
 }
 
 #footer p{
@@ -109,12 +109,13 @@ background-color:#FFFFCC;
 
 
 #texto1{
-color:#000000;
+background-color:#A1574B;
+color:#FFFFFF;
 text-decoration:none;
 }
 
-
 #texto2{
+background-color:#A1574B;
 color:#FFFFFF;
 text-decoration:none;
 }
