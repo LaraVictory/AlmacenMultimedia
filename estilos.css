@@ -57,8 +57,7 @@ color:#8F4234;
 padding-top:1%;
 font-size:0.625em;
 width:100%;
-position:absolute;
-bottom:0;
+margin-top:50%;
 }
 
 #footer p{
@@ -121,12 +120,13 @@ text-decoration:none;
 }
 
 #footer{
-margin-top:5%;
+
 border-top:solid thin #8F4234;
 color:#8F4234;
 font-size:0.938em;
-position:absolute;
-bottom:0;
+position:relative;
+margin-top:5%;
+
 }
 
 #boton{
