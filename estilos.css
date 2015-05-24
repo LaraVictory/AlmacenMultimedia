@@ -4,39 +4,37 @@
 
 #inicio{
 background-color:#FFFFCC;
-padding:2%;
 }
 
 #logo{
-width:244px;
-height:146px;	
+width:15.250em;
+height:9.125em;	
 margin:0 auto;
 margin-bottom:6%;
-margin-top:1%;
+margin-top:4%;
 }
 
 #logoImagen{
-width:244px;
-height:146px;	
+width:15.250em;
+height:9.125em;	
 }
 
 
 h1{
 color:#996666;
-font-size:8px;
+font-size:0.813em;
 width:85%;
 margin:0 auto;
+margin-top:10%;
 text-align:center;
 }
 
 #campo1{
-
 width:85%;
 margin:0 auto;
 }
 
 #campo2{
-
 margin:0 auto;
 width:85%;
 }
@@ -57,11 +55,10 @@ text-decoration:none;
 border-top:solid thin #8F4234;
 color:#8F4234;
 padding-top:1%;
-font-size:0.03em;
-padding:5px;
-width:80%;
-margin:0 auto;
-margin-top:5%;
+font-size:0.625em;
+width:100%;
+position:absolute;
+bottom:0;
 }
 
 #footer p{
@@ -74,9 +71,10 @@ background-color:#FFF;
 text-align:center;
 width:40%;
 margin:0 auto;
+margin-top:5%;
 padding:2%;
-border:solid 2px #8F4234;
-border-radius: 10px;
+border:solid 0.125em #8F4234;
+border-radius:0.625em;
 }
 
 #botoncito{
@@ -93,22 +91,21 @@ margin-bottom:3%;
 }
 
 #logoImagen{
-width:376px;
-height:224px;	
+width:23.500em;
+height:14.000em;	
 }
 
 
 h1{
 color:#996666;
-font-size:0.944em;
+font-size:1.063em;
 margin:0 auto;
-margin-top:2%;
+margin-top:5%;
 }
 
 
 #inicio{
 background-color:#FFFFCC;
-padding:2%;
 }
 
 
@@ -127,8 +124,9 @@ text-decoration:none;
 margin-top:5%;
 border-top:solid thin #8F4234;
 color:#8F4234;
-padding-top:1%;
-font-size:0.625em;
+font-size:0.938em;
+position:absolute;
+bottom:0;
 }
 
 #boton{
@@ -136,8 +134,9 @@ background-color:#FFF;
 text-align:center;
 width:40%;
 margin:0 auto;
+margin-top:2%;
 padding:1%;
-border:solid 2px #8F4234;
+border:solid 0.125em #8F4234;
 border-radius: 10px;
 }
 
